@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66308210186",
+    "project_id": "hani-2dee4",
+    "storage_bucket": "hani-2dee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66308210186:android:d5c5fa816caa76b670a9f3",
+        "android_client_info": {
+          "package_name": "com.form.hani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVHAJ6dSGzbHIWYX3m3fMLqED28E9PQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
